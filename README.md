@@ -1,6 +1,7 @@
 # WHS Debate Club 
 <br>
 <img src="debateclublogo.png" alt="debate club logo" height="300" width="300">
+<br>
 Welcome to the official page for the WHS Debate Club! 
 
 ## Our Mission
